@@ -1,4 +1,4 @@
-###F1 DATASET EXPOLORATION
+# F1 DATASET EXPOLORATION
 
 ## Installation
 1. Create account on Kaggle and generate API key. Download the API key as ```kaggle.json``` file and save it in ```~/.kaggle/kaggle.json```. 
